@@ -1,0 +1,220 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  padding-top: 50px;
+  font-family: 'Lobster', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  color:  #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+a:hover {
+
+  color: #21243d;
+}
+
+hr {
+  margin-top: 120px;
+  border: #ea7ad7;
+  border-style: dotted none none none;
+  border-width: thick;
+  width: 40px;
+
+
+}
+
+span {
+  margin: auto auto auto 10px;
+}
+
+
+
+.div1 {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.profile {
+  background-color: #ffd5e5;
+  height: 700px;
+
+}
+
+.skills {
+  background-color: #ffffdd;
+  height: 900px;
+
+
+
+}
+
+.bottom-container {
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 325px;
+}
+
+.profile-pic{
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  margin-top: 40px;
+}
+
+.skills-picture{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.reading-picture{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.a-programmer{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.profile-text{
+  color: #40514E;
+  font-family: 'Poppins', sans-serif;
+  width: 30%;
+  margin: 20px auto 20px;
+}
+
+.my-skills {
+  color: #66BFBF;
+  margin-top: 0;
+  padding-top: 20px;
+}
+
+.skills-text2{
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.skills-text3 {
+  color: #11999E;
+
+}
+
+.skills-text4 {
+  font-family: 'Poppins', sans-serif;
+}
+
+.contact-me {
+  margin-bottom: 0;
+  background-color: #9399ff;
+}
+
+.contact-text {
+  margin-top: 0;
+  padding-top: 20px;
+  color: #633a82
+}
+
+.contact-text2 {
+  font-family: 'Poppins', sans-serif;
+  color: #633a82
+}
+
+.contact-text3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin-bottom: 0
+  position: relative;
+  height: 200px;
+
+}
+
+.bottom-p {
+  background-color: #66BFBF;
+  color: #c02739;
+  position: relative;
+  top: 80px;
+}
+
+.footer-link {
+  padding: 10px;
+  position: relative;
+  top: 30px;
+  color: #11999E;
+  text-decoration: none;
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
